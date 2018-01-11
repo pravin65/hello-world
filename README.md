@@ -1,2 +1,3 @@
 # hello-world
-First repository
+First repository in GitHub.
+My name is Pravin.
